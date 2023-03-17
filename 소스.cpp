@@ -19,6 +19,8 @@ bool isPalindrome(string word) {
 
 int main() {
 
+
+	cout<<"다음 프로그램은 단어의 회문을 확인하는 내용입니다."<<endl;
 	string word;
 	cout << "회문을 확인할 단어를 입력하시오: ";
 	cin >> word;
